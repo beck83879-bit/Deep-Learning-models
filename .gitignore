@@ -1,0 +1,6 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+
+# 忽略虚拟环境中的大文件
+.venv/
